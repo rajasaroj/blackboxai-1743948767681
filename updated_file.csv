@@ -1,0 +1,4 @@
+Column,format,seqId
+Data_id,Heron,8
+Tradedate,dd-mm-yyyy,2
+Settledate,dd-mm-yyyy,3
